@@ -1,0 +1,1 @@
+# COVID-19-30-day-Mortality-Prediction-from-CXR-
